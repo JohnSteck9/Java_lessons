@@ -17,7 +17,7 @@ public class lesson_11_functions {
         return result;
     }
     public static void func_2 (int a, int b) {
-        int result =1;
+        int result = 1;
         for (int i = 0; i < b; i++)
             result += a;
         System.out.println(result);
